@@ -4,15 +4,11 @@ A 92-residue computational sequence redesign for the published Top7 structural s
 
 **Computational candidate and forward prediction only. No new laboratory synthesis or testing. No binding, catalytic, therapeutic, solubility, stability, or safety property is established.**
 
-## Downloads
+## Research files
 
-- [Computational design report (PDF)](RAVEN-P1-Computational-Protein-Design-v0.1.pdf)
-- [Complete research pack (ZIP)](RAVEN-P1-Research-Pack-v0.1.zip) — source code, candidate FASTA, reference inputs, predicted structures, model scores, controls, figures, checksums, and third-party licenses.
-- [Research README](RESEARCH-README.md) — methods, provenance, exact model settings and reproduction instructions.
-- [Design scope](DESIGN.md)
-- [AI-assisted outside review](REVIEW.md)
+The report, research pack, methods README, design scope, and outside review have not yet been uploaded to this repository. Public download links will be added when those files are available here.
 
-Download and extract the research ZIP to reproduce the study. File paths and commands in the research README refer to its extracted RAVEN-P1-v0.1 directory. The root PDF is the latest separately saved report; the ZIP is preserved unchanged and contains its own saved report rendering.
+This repository currently contains this overview only. Reproduction instructions and computational outputs are pending upload; they cannot be reproduced from the repository contents alone.
 
 ## Attribution
 
@@ -22,6 +18,4 @@ The design uses the published Top7 scaffold (PDB 1QYS; Kuhlman et al., Science, 
 
 ## Computed structure and math
 
-![RAVEN-P1 computed structure and math](RAVEN-P1-Computed-Structure-and-Math.png)
-
-This figure presents computational outputs; it is not a laboratory measurement.
+The computed-structure illustration has not yet been uploaded to this repository. No figure is available here at present.
