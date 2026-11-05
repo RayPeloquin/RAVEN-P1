@@ -4,7 +4,14 @@ A 92-residue computational sequence redesign for the published Top7 structural s
 
 **Computational candidate and forward prediction only. No new laboratory synthesis or testing. No binding, catalytic, therapeutic, solubility, stability, or safety property is established.**
 
-## Research files
+## v0.2 coding sequence and mutation controls
+
+The illustrative coding sequence encodes the original 92-residue RAVEN-P1 candidate. The report compares six intermediate sequences and both endpoints (Top7 and RAVEN-P1) in eight computational structure predictions.
+
+- [Gene and mutation controls report (PDF)](RAVEN-P1-Gene-and-Mutation-Controls-v0.2.pdf)
+- [Illustrative coding sequence (FASTA, 279 bases including the stop codon)](results/RAVEN-P1-Illustrative-CDS-v0.2.fasta)
+
+## v0.1 research files
 
 - [Computational design scope](DESIGN.md) — original scope document recovered from the v0.1 research pack.
 - [AI-assisted outside review](REVIEW.md) — original review and limitations from the v0.1 research pack; advisory, not experimental validation.
@@ -23,7 +30,7 @@ A 92-residue computational sequence redesign for the published Top7 structural s
 
 - [Computational protein design report (PDF)](RAVEN-P1-Computational-Protein-Design-v0.1.pdf) — five-page v0.1 report.
 
-The complete research pack is pending upload.
+The complete v0.1 research pack is pending upload.
 
 This repository contains the overview, design scope, AI-assisted review, research methods, candidate FASTA, design summary, and saved verification results. The scripts, dependencies, remaining reference inputs, and remaining computational outputs are pending upload; the study cannot yet be reproduced from the repository contents alone.
 
