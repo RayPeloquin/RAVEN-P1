@@ -1,0 +1,646 @@
+[
+  {
+    "design_position": 1,
+    "source_chain": "A",
+    "source_residue": 3,
+    "source_resname": "ASP",
+    "normalized_aa": "D"
+  },
+  {
+    "design_position": 2,
+    "source_chain": "A",
+    "source_residue": 4,
+    "source_resname": "ILE",
+    "normalized_aa": "I"
+  },
+  {
+    "design_position": 3,
+    "source_chain": "A",
+    "source_residue": 5,
+    "source_resname": "GLN",
+    "normalized_aa": "Q"
+  },
+  {
+    "design_position": 4,
+    "source_chain": "A",
+    "source_residue": 6,
+    "source_resname": "VAL",
+    "normalized_aa": "V"
+  },
+  {
+    "design_position": 5,
+    "source_chain": "A",
+    "source_residue": 7,
+    "source_resname": "GLN",
+    "normalized_aa": "Q"
+  },
+  {
+    "design_position": 6,
+    "source_chain": "A",
+    "source_residue": 8,
+    "source_resname": "VAL",
+    "normalized_aa": "V"
+  },
+  {
+    "design_position": 7,
+    "source_chain": "A",
+    "source_residue": 9,
+    "source_resname": "ASN",
+    "normalized_aa": "N"
+  },
+  {
+    "design_position": 8,
+    "source_chain": "A",
+    "source_residue": 10,
+    "source_resname": "ILE",
+    "normalized_aa": "I"
+  },
+  {
+    "design_position": 9,
+    "source_chain": "A",
+    "source_residue": 11,
+    "source_resname": "ASP",
+    "normalized_aa": "D"
+  },
+  {
+    "design_position": 10,
+    "source_chain": "A",
+    "source_residue": 12,
+    "source_resname": "ASP",
+    "normalized_aa": "D"
+  },
+  {
+    "design_position": 11,
+    "source_chain": "A",
+    "source_residue": 13,
+    "source_resname": "ASN",
+    "normalized_aa": "N"
+  },
+  {
+    "design_position": 12,
+    "source_chain": "A",
+    "source_residue": 14,
+    "source_resname": "GLY",
+    "normalized_aa": "G"
+  },
+  {
+    "design_position": 13,
+    "source_chain": "A",
+    "source_residue": 15,
+    "source_resname": "LYS",
+    "normalized_aa": "K"
+  },
+  {
+    "design_position": 14,
+    "source_chain": "A",
+    "source_residue": 16,
+    "source_resname": "ASN",
+    "normalized_aa": "N"
+  },
+  {
+    "design_position": 15,
+    "source_chain": "A",
+    "source_residue": 17,
+    "source_resname": "PHE",
+    "normalized_aa": "F"
+  },
+  {
+    "design_position": 16,
+    "source_chain": "A",
+    "source_residue": 18,
+    "source_resname": "ASP",
+    "normalized_aa": "D"
+  },
+  {
+    "design_position": 17,
+    "source_chain": "A",
+    "source_residue": 19,
+    "source_resname": "TYR",
+    "normalized_aa": "Y"
+  },
+  {
+    "design_position": 18,
+    "source_chain": "A",
+    "source_residue": 20,
+    "source_resname": "THR",
+    "normalized_aa": "T"
+  },
+  {
+    "design_position": 19,
+    "source_chain": "A",
+    "source_residue": 21,
+    "source_resname": "TYR",
+    "normalized_aa": "Y"
+  },
+  {
+    "design_position": 20,
+    "source_chain": "A",
+    "source_residue": 22,
+    "source_resname": "THR",
+    "normalized_aa": "T"
+  },
+  {
+    "design_position": 21,
+    "source_chain": "A",
+    "source_residue": 23,
+    "source_resname": "VAL",
+    "normalized_aa": "V"
+  },
+  {
+    "design_position": 22,
+    "source_chain": "A",
+    "source_residue": 24,
+    "source_resname": "THR",
+    "normalized_aa": "T"
+  },
+  {
+    "design_position": 23,
+    "source_chain": "A",
+    "source_residue": 25,
+    "source_resname": "THR",
+    "normalized_aa": "T"
+  },
+  {
+    "design_position": 24,
+    "source_chain": "A",
+    "source_residue": 26,
+    "source_resname": "GLU",
+    "normalized_aa": "E"
+  },
+  {
+    "design_position": 25,
+    "source_chain": "A",
+    "source_residue": 27,
+    "source_resname": "SER",
+    "normalized_aa": "S"
+  },
+  {
+    "design_position": 26,
+    "source_chain": "A",
+    "source_residue": 28,
+    "source_resname": "GLU",
+    "normalized_aa": "E"
+  },
+  {
+    "design_position": 27,
+    "source_chain": "A",
+    "source_residue": 29,
+    "source_resname": "LEU",
+    "normalized_aa": "L"
+  },
+  {
+    "design_position": 28,
+    "source_chain": "A",
+    "source_residue": 30,
+    "source_resname": "GLN",
+    "normalized_aa": "Q"
+  },
+  {
+    "design_position": 29,
+    "source_chain": "A",
+    "source_residue": 31,
+    "source_resname": "LYS",
+    "normalized_aa": "K"
+  },
+  {
+    "design_position": 30,
+    "source_chain": "A",
+    "source_residue": 32,
+    "source_resname": "VAL",
+    "normalized_aa": "V"
+  },
+  {
+    "design_position": 31,
+    "source_chain": "A",
+    "source_residue": 33,
+    "source_resname": "LEU",
+    "normalized_aa": "L"
+  },
+  {
+    "design_position": 32,
+    "source_chain": "A",
+    "source_residue": 34,
+    "source_resname": "ASN",
+    "normalized_aa": "N"
+  },
+  {
+    "design_position": 33,
+    "source_chain": "A",
+    "source_residue": 35,
+    "source_resname": "GLU",
+    "normalized_aa": "E"
+  },
+  {
+    "design_position": 34,
+    "source_chain": "A",
+    "source_residue": 36,
+    "source_resname": "LEU",
+    "normalized_aa": "L"
+  },
+  {
+    "design_position": 35,
+    "source_chain": "A",
+    "source_residue": 37,
+    "source_resname": "MSE",
+    "normalized_aa": "M"
+  },
+  {
+    "design_position": 36,
+    "source_chain": "A",
+    "source_residue": 38,
+    "source_resname": "ASP",
+    "normalized_aa": "D"
+  },
+  {
+    "design_position": 37,
+    "source_chain": "A",
+    "source_residue": 39,
+    "source_resname": "TYR",
+    "normalized_aa": "Y"
+  },
+  {
+    "design_position": 38,
+    "source_chain": "A",
+    "source_residue": 40,
+    "source_resname": "ILE",
+    "normalized_aa": "I"
+  },
+  {
+    "design_position": 39,
+    "source_chain": "A",
+    "source_residue": 41,
+    "source_resname": "LYS",
+    "normalized_aa": "K"
+  },
+  {
+    "design_position": 40,
+    "source_chain": "A",
+    "source_residue": 42,
+    "source_resname": "LYS",
+    "normalized_aa": "K"
+  },
+  {
+    "design_position": 41,
+    "source_chain": "A",
+    "source_residue": 43,
+    "source_resname": "GLN",
+    "normalized_aa": "Q"
+  },
+  {
+    "design_position": 42,
+    "source_chain": "A",
+    "source_residue": 44,
+    "source_resname": "GLY",
+    "normalized_aa": "G"
+  },
+  {
+    "design_position": 43,
+    "source_chain": "A",
+    "source_residue": 45,
+    "source_resname": "ALA",
+    "normalized_aa": "A"
+  },
+  {
+    "design_position": 44,
+    "source_chain": "A",
+    "source_residue": 46,
+    "source_resname": "LYS",
+    "normalized_aa": "K"
+  },
+  {
+    "design_position": 45,
+    "source_chain": "A",
+    "source_residue": 47,
+    "source_resname": "ARG",
+    "normalized_aa": "R"
+  },
+  {
+    "design_position": 46,
+    "source_chain": "A",
+    "source_residue": 48,
+    "source_resname": "VAL",
+    "normalized_aa": "V"
+  },
+  {
+    "design_position": 47,
+    "source_chain": "A",
+    "source_residue": 49,
+    "source_resname": "ARG",
+    "normalized_aa": "R"
+  },
+  {
+    "design_position": 48,
+    "source_chain": "A",
+    "source_residue": 50,
+    "source_resname": "ILE",
+    "normalized_aa": "I"
+  },
+  {
+    "design_position": 49,
+    "source_chain": "A",
+    "source_residue": 51,
+    "source_resname": "SER",
+    "normalized_aa": "S"
+  },
+  {
+    "design_position": 50,
+    "source_chain": "A",
+    "source_residue": 52,
+    "source_resname": "ILE",
+    "normalized_aa": "I"
+  },
+  {
+    "design_position": 51,
+    "source_chain": "A",
+    "source_residue": 53,
+    "source_resname": "THR",
+    "normalized_aa": "T"
+  },
+  {
+    "design_position": 52,
+    "source_chain": "A",
+    "source_residue": 54,
+    "source_resname": "ALA",
+    "normalized_aa": "A"
+  },
+  {
+    "design_position": 53,
+    "source_chain": "A",
+    "source_residue": 55,
+    "source_resname": "ARG",
+    "normalized_aa": "R"
+  },
+  {
+    "design_position": 54,
+    "source_chain": "A",
+    "source_residue": 56,
+    "source_resname": "THR",
+    "normalized_aa": "T"
+  },
+  {
+    "design_position": 55,
+    "source_chain": "A",
+    "source_residue": 57,
+    "source_resname": "LYS",
+    "normalized_aa": "K"
+  },
+  {
+    "design_position": 56,
+    "source_chain": "A",
+    "source_residue": 58,
+    "source_resname": "LYS",
+    "normalized_aa": "K"
+  },
+  {
+    "design_position": 57,
+    "source_chain": "A",
+    "source_residue": 59,
+    "source_resname": "GLU",
+    "normalized_aa": "E"
+  },
+  {
+    "design_position": 58,
+    "source_chain": "A",
+    "source_residue": 60,
+    "source_resname": "ALA",
+    "normalized_aa": "A"
+  },
+  {
+    "design_position": 59,
+    "source_chain": "A",
+    "source_residue": 61,
+    "source_resname": "GLU",
+    "normalized_aa": "E"
+  },
+  {
+    "design_position": 60,
+    "source_chain": "A",
+    "source_residue": 62,
+    "source_resname": "LYS",
+    "normalized_aa": "K"
+  },
+  {
+    "design_position": 61,
+    "source_chain": "A",
+    "source_residue": 63,
+    "source_resname": "PHE",
+    "normalized_aa": "F"
+  },
+  {
+    "design_position": 62,
+    "source_chain": "A",
+    "source_residue": 64,
+    "source_resname": "ALA",
+    "normalized_aa": "A"
+  },
+  {
+    "design_position": 63,
+    "source_chain": "A",
+    "source_residue": 65,
+    "source_resname": "ALA",
+    "normalized_aa": "A"
+  },
+  {
+    "design_position": 64,
+    "source_chain": "A",
+    "source_residue": 66,
+    "source_resname": "ILE",
+    "normalized_aa": "I"
+  },
+  {
+    "design_position": 65,
+    "source_chain": "A",
+    "source_residue": 67,
+    "source_resname": "LEU",
+    "normalized_aa": "L"
+  },
+  {
+    "design_position": 66,
+    "source_chain": "A",
+    "source_residue": 68,
+    "source_resname": "ILE",
+    "normalized_aa": "I"
+  },
+  {
+    "design_position": 67,
+    "source_chain": "A",
+    "source_residue": 69,
+    "source_resname": "LYS",
+    "normalized_aa": "K"
+  },
+  {
+    "design_position": 68,
+    "source_chain": "A",
+    "source_residue": 70,
+    "source_resname": "VAL",
+    "normalized_aa": "V"
+  },
+  {
+    "design_position": 69,
+    "source_chain": "A",
+    "source_residue": 71,
+    "source_resname": "PHE",
+    "normalized_aa": "F"
+  },
+  {
+    "design_position": 70,
+    "source_chain": "A",
+    "source_residue": 72,
+    "source_resname": "ALA",
+    "normalized_aa": "A"
+  },
+  {
+    "design_position": 71,
+    "source_chain": "A",
+    "source_residue": 73,
+    "source_resname": "GLU",
+    "normalized_aa": "E"
+  },
+  {
+    "design_position": 72,
+    "source_chain": "A",
+    "source_residue": 74,
+    "source_resname": "LEU",
+    "normalized_aa": "L"
+  },
+  {
+    "design_position": 73,
+    "source_chain": "A",
+    "source_residue": 75,
+    "source_resname": "GLY",
+    "normalized_aa": "G"
+  },
+  {
+    "design_position": 74,
+    "source_chain": "A",
+    "source_residue": 76,
+    "source_resname": "TYR",
+    "normalized_aa": "Y"
+  },
+  {
+    "design_position": 75,
+    "source_chain": "A",
+    "source_residue": 77,
+    "source_resname": "ASN",
+    "normalized_aa": "N"
+  },
+  {
+    "design_position": 76,
+    "source_chain": "A",
+    "source_residue": 78,
+    "source_resname": "ASP",
+    "normalized_aa": "D"
+  },
+  {
+    "design_position": 77,
+    "source_chain": "A",
+    "source_residue": 79,
+    "source_resname": "ILE",
+    "normalized_aa": "I"
+  },
+  {
+    "design_position": 78,
+    "source_chain": "A",
+    "source_residue": 80,
+    "source_resname": "ASN",
+    "normalized_aa": "N"
+  },
+  {
+    "design_position": 79,
+    "source_chain": "A",
+    "source_residue": 81,
+    "source_resname": "VAL",
+    "normalized_aa": "V"
+  },
+  {
+    "design_position": 80,
+    "source_chain": "A",
+    "source_residue": 82,
+    "source_resname": "THR",
+    "normalized_aa": "T"
+  },
+  {
+    "design_position": 81,
+    "source_chain": "A",
+    "source_residue": 83,
+    "source_resname": "PHE",
+    "normalized_aa": "F"
+  },
+  {
+    "design_position": 82,
+    "source_chain": "A",
+    "source_residue": 84,
+    "source_resname": "ASP",
+    "normalized_aa": "D"
+  },
+  {
+    "design_position": 83,
+    "source_chain": "A",
+    "source_residue": 85,
+    "source_resname": "GLY",
+    "normalized_aa": "G"
+  },
+  {
+    "design_position": 84,
+    "source_chain": "A",
+    "source_residue": 86,
+    "source_resname": "ASP",
+    "normalized_aa": "D"
+  },
+  {
+    "design_position": 85,
+    "source_chain": "A",
+    "source_residue": 87,
+    "source_resname": "THR",
+    "normalized_aa": "T"
+  },
+  {
+    "design_position": 86,
+    "source_chain": "A",
+    "source_residue": 88,
+    "source_resname": "VAL",
+    "normalized_aa": "V"
+  },
+  {
+    "design_position": 87,
+    "source_chain": "A",
+    "source_residue": 89,
+    "source_resname": "THR",
+    "normalized_aa": "T"
+  },
+  {
+    "design_position": 88,
+    "source_chain": "A",
+    "source_residue": 90,
+    "source_resname": "VAL",
+    "normalized_aa": "V"
+  },
+  {
+    "design_position": 89,
+    "source_chain": "A",
+    "source_residue": 91,
+    "source_resname": "GLU",
+    "normalized_aa": "E"
+  },
+  {
+    "design_position": 90,
+    "source_chain": "A",
+    "source_residue": 92,
+    "source_resname": "GLY",
+    "normalized_aa": "G"
+  },
+  {
+    "design_position": 91,
+    "source_chain": "A",
+    "source_residue": 93,
+    "source_resname": "GLN",
+    "normalized_aa": "Q"
+  },
+  {
+    "design_position": 92,
+    "source_chain": "A",
+    "source_residue": 94,
+    "source_resname": "LEU",
+    "normalized_aa": "L"
+  }
+]
