@@ -35,6 +35,6 @@ The design uses the published Top7 scaffold (PDB 1QYS; Kuhlman et al., Science, 
 
 ## Computed structure and model scores
 
-![Computed structure comparison](figures/forward-structures.svg)
+![Both predicted backbones closely follow the experimental Top7 backbone. C-alpha RMSD is 0.80 Å for the Top7 reference at left and 0.78 Å for RAVEN-P1 at right.](figures/forward-structures.svg)
 
 The [model score table](results/scores.csv) contains all 97 records used in the analysis.
