@@ -1,0 +1,71 @@
+{
+  "status": "computational_design_only",
+  "model": "ProteinMPNN vanilla v_48_020",
+  "model_sha256": "c9cb4a671d79604111231f8dbfc7c590e06f1197453b7a6854ac6661a642f5bd",
+  "source_commit": "8907e6671bfbfc92303b5f79c4b5e6ce47cdef57",
+  "generation_seed": 20261104,
+  "temperatures": [
+    0.1,
+    0.2
+  ],
+  "generation_count": 64,
+  "unique_generation_count": 64,
+  "scoring_seeds": [
+    1001,
+    1002,
+    1003,
+    1004,
+    1005,
+    1006,
+    1007,
+    1008
+  ],
+  "selection_rule": "minimum common-order mean negative log likelihood",
+  "reference": {
+    "name": "TOP7_REFERENCE_92",
+    "sequence": "DIQVQVNIDDNGKNFDYTYTVTTESELQKVLNELMDYIKKQGAKRVRISITARTKKEAEKFAAILIKVFAELGYNDINVTFDGDTVTVEGQL",
+    "nll_mean": 1.6676061153411865,
+    "nll_sd_orders": 0.014030322432518005,
+    "nll_orders": [
+      1.6758430004119873,
+      1.650321125984192,
+      1.6633327007293701,
+      1.668189525604248,
+      1.6769952774047852,
+      1.675248146057129,
+      1.6859160661697388,
+      1.6450026035308838
+    ]
+  },
+  "selected": {
+    "name": "design_064",
+    "sequence": "MIKIKVVIEKDGKKIVLEYEVESEEEFEEVLKEIKEIIKKENPEVVTISVTAETPEEAKKYAEKLKKLLEELGYKDIEVKFDGNTVTVTGKK",
+    "nll_mean": 0.8895478844642639,
+    "nll_sd_orders": 0.022243138402700424,
+    "nll_orders": [
+      0.864452600479126,
+      0.8929523229598999,
+      0.9230284690856934,
+      0.8730701208114624,
+      0.9219972491264343,
+      0.8715487718582153,
+      0.8831030130386353,
+      0.88623046875
+    ],
+    "candidate_id": "RAVEN-P1-v0.1",
+    "length": 92,
+    "identity_to_reference": 0.45652173913043476,
+    "substitutions": 50
+  },
+  "reference_shuffle_mean": 3.250684142112732,
+  "candidate_shuffle_mean": 3.124936506152153,
+  "score_reproduction_max_abs": 0.0,
+  "torch_version": "2.15.0+cpu",
+  "numpy_version": "2.3.5",
+  "warnings": [
+    "NLL is not folding energy, stability, solubility, or success probability",
+    "Top7 may overlap training data; no generalization benchmark",
+    "Candidate selected using the same model family that generated it",
+    "No wet-lab synthesis, binding target, or therapeutic function"
+  ]
+}
