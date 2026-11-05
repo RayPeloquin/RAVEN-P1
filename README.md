@@ -9,9 +9,12 @@ A 92-residue computational sequence redesign for the published Top7 structural s
 - [Computational design scope](DESIGN.md) — original scope document recovered from the v0.1 research pack.
 - [AI-assisted outside review](REVIEW.md) — original review and limitations from the v0.1 research pack; advisory, not experimental validation.
 
-The report, research pack, and methods README are pending upload. Public download links will be added when those files are available here.
+- [Research methods and provenance](RESEARCH-README.md) — original pack instructions, with repository availability noted.
+- [Candidate sequence (FASTA)](results/RAVEN-P1-v0.1.fasta) — original 92-residue computational candidate.
 
-This repository currently contains this overview, the design-scope document, and the AI-assisted review. Reproduction instructions and computational outputs are pending upload; they cannot be reproduced from the repository contents alone.
+The report and complete research pack are pending upload. Public download links will be added when those files are available here.
+
+This repository contains the overview, design scope, AI-assisted review, research methods, and candidate FASTA. The scripts, dependencies, reference inputs, and remaining computational outputs are pending upload; the study cannot yet be reproduced from the repository contents alone.
 
 ## Attribution
 
