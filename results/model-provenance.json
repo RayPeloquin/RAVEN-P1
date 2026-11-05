@@ -1,0 +1,9 @@
+{
+  "reference_url": "https://files.rcsb.org/download/1QYS.pdb",
+  "reference_sha256": "ac8fe04512d809dd11815493548ccb28bff3edaa52d1e14385a12cc3dc01d3fc",
+  "proteinmpnn_commit": "8907e6671bfbfc92303b5f79c4b5e6ce47cdef57",
+  "omegafold_commit": "313c873ad190b64506a497c926649e15fcd88fcd",
+  "omegafold_checkpoint_url": "https://helixon.s3.amazonaws.com/release1.pt",
+  "omegafold_checkpoint_bytes": 3181611124,
+  "omegafold_checkpoint_sha256": "3a91f6a35dd6ba6f7643f99a407038a0dc05abab15ce5c92d62ce1359922b201"
+}
