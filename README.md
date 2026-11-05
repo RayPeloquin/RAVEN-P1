@@ -6,9 +6,11 @@ A 92-residue computational sequence redesign for the published Top7 structural s
 
 ## Research files
 
-The report, research pack, methods README, design scope, and outside review have not yet been uploaded to this repository. Public download links will be added when those files are available here.
+- [Computational design scope](DESIGN.md) — original scope document recovered from the v0.1 research pack.
 
-This repository currently contains this overview only. Reproduction instructions and computational outputs are pending upload; they cannot be reproduced from the repository contents alone.
+The report, research pack, methods README, and outside review are pending upload. Public download links will be added when those files are available here.
+
+This repository currently contains this overview and the design-scope document. Reproduction instructions and computational outputs are pending upload; they cannot be reproduced from the repository contents alone.
 
 ## Attribution
 
