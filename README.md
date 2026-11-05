@@ -21,7 +21,9 @@ A 92-residue computational sequence redesign for the published Top7 structural s
 - [Top7 reference sequence](inputs/top7-reference-92.fasta) — the 92 residues used for comparison.
 - [Residue-numbering map](inputs/residue-map.json) — corresponding positions in chain A of PDB 1QYS.
 
-The report and complete research pack are pending upload. Public download links will be added when those files are available here.
+- [Computational protein design report (PDF)](RAVEN-P1-Computational-Protein-Design-v0.1.pdf) — five-page v0.1 report.
+
+The complete research pack is pending upload.
 
 This repository contains the overview, design scope, AI-assisted review, research methods, candidate FASTA, design summary, and saved verification results. The scripts, dependencies, remaining reference inputs, and remaining computational outputs are pending upload; the study cannot yet be reproduced from the repository contents alone.
 
