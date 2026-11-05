@@ -31,6 +31,8 @@ Anubis commissioned the work and set the computer-only scope. Asteris Solenne / 
 
 The design uses the published Top7 scaffold (PDB 1QYS; Kuhlman et al., Science, 2003, DOI 10.1126/science.1089427), ProteinMPNN and OmegaFold. It is not a claim of a new protein fold, worldwide sequence novelty, or experimentally verified folding.
 
-## Computed structure and math
+## Computed structure and model scores
 
-The computed-structure illustration has not yet been uploaded to this repository. No figure is available here at present.
+![Computed structure comparison](figures/forward-structures.svg)
+
+The [model score table](results/scores.csv) contains all 97 records used in the analysis.
