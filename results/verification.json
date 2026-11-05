@@ -1,0 +1,44 @@
+{
+  "backbone_residues": 92,
+  "backbone_atoms": 368,
+  "mse_preserved": true,
+  "sequence_length_verified": true,
+  "score_repeat_max_abs": 0.0,
+  "Kabsch_rotation_translation_sanity_check": true,
+  "forward_predictions": [
+    {
+      "name": "TOP7_REFERENCE_92",
+      "seconds": 132.21025204658508,
+      "confidence_mean_0_100": 92.00965118408203,
+      "confidence_min_0_100": 71.14845275878906,
+      "path": "results/omegafold/TOP7_REFERENCE_92.pdb",
+      "pdb_sha256": "949539978259510f1066d1fd4f179ba9890b179783d2f464d905d27653f6e85e",
+      "sequence_matches_input": true,
+      "residues": 92,
+      "ca_rmsd_to_template_A": 0.7978664556767633,
+      "ca_nonlocal_pair_distance_rmse_A_excluding_3_neighbors": 0.6432000187895022,
+      "ca_contact_F1_8A_excluding_3_neighbors": 0.9496402877697842,
+      "ca_adjacent_distance_min_A": 3.6888200010301393,
+      "ca_adjacent_distance_max_A": 3.8861456483256003,
+      "confidence_CA_mean_0_100": 92.00945652173912,
+      "confidence_CA_min_0_100": 71.15
+    },
+    {
+      "name": "RAVEN_P1",
+      "seconds": 128.9827642440796,
+      "confidence_mean_0_100": 96.90311431884766,
+      "confidence_min_0_100": 88.69290924072266,
+      "path": "results/omegafold/RAVEN_P1.pdb",
+      "pdb_sha256": "7cc003ad45ae19d50d4a92a4e5a5b93b3aa184d235c01bf4003af51b39ac6f26",
+      "sequence_matches_input": true,
+      "residues": 92,
+      "ca_rmsd_to_template_A": 0.7809795346736451,
+      "ca_nonlocal_pair_distance_rmse_A_excluding_3_neighbors": 0.561853913297495,
+      "ca_contact_F1_8A_excluding_3_neighbors": 0.9443099273607748,
+      "ca_adjacent_distance_min_A": 3.665375014920029,
+      "ca_adjacent_distance_max_A": 3.8971590934936176,
+      "confidence_CA_mean_0_100": 96.90293478260871,
+      "confidence_CA_min_0_100": 88.69
+    }
+  ]
+}
